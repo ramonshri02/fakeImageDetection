@@ -18,3 +18,6 @@ Image processing and computer vision techniques
 Data preprocessing and augmentation
 Model optimization and fine-tuning
 Evaluation metrics and performance analysis
+
+
+![Alt Text](https://github.com/ramonshri02/fakeImageDetection/blob/main/Screenshot%202023-06-22%20at%207.33.54%20PM.png)
