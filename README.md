@@ -8,3 +8,13 @@ Develop a model capable of identifying AI-generated fake photos.
 Train the model using a diverse dataset of labeled real and fake images.
 Optimize the model's architecture and parameters for improved performance.
 Evaluate the model's accuracy, precision, recall, and F1 score.
+
+## Technologies Used
+
+Python
+Deep learning frameworks (e.g., TensorFlow, Keras)
+Convolutional neural networks (CNNs)
+Image processing and computer vision techniques
+Data preprocessing and augmentation
+Model optimization and fine-tuning
+Evaluation metrics and performance analysis
