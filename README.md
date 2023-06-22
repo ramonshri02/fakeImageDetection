@@ -11,13 +11,13 @@ The AI-Generated Fake Photo Detection project aims to develop a model that can a
 
 ## Technologies Used
 
-Python
-Deep learning frameworks (e.g., TensorFlow, Keras)
-Convolutional neural networks (CNNs)
-Image processing and computer vision techniques
-Data preprocessing and augmentation
-Model optimization and fine-tuning
-Evaluation metrics and performance analysis
+* Python
+* Deep learning frameworks (e.g., TensorFlow, Keras)
+* Convolutional neural networks (CNNs)
+* Image processing and computer vision techniques
+* Data preprocessing and augmentation
+* Model optimization and fine-tuning
+* Evaluation metrics and performance analysis
 
 ## Bitgrit Submission 
 ![Alt Text](https://github.com/ramonshri02/fakeImageDetection/blob/main/Screenshot%202023-06-22%20at%207.33.54%20PM.png)
