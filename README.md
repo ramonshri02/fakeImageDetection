@@ -21,3 +21,8 @@ The AI-Generated Image Detection project aims to develop a model that can accura
 
 ## Bitgrit Submission 
 ![Alt Text](https://github.com/ramonshri02/fakeImageDetection/blob/main/Screenshot%202023-06-22%20at%207.33.54%20PM.png)
+
+## Conclusion
+In conclusion, the AI-Generated Fake Photo Detection project has yielded promising results in identifying fake photos created by artificial intelligence algorithms. The model achieved an F1 score of 0.67, indicating a relatively good balance between precision and recall in detecting AI-generated fake images.
+
+The qualitative analysis of the model's performance revealed its ability to identify specific patterns, artifacts, or inconsistencies that are indicative of AI-generated content. It successfully distinguished between real and AI-generated images, showcasing its effectiveness in tackling the challenge of distinguishing between the two.
