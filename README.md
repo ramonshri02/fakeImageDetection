@@ -19,4 +19,4 @@ Data preprocessing and augmentation
 Model optimization and fine-tuning
 Evaluation metrics and performance analysis
 
-![Alt Text](Screenshot 2023-06-22 at 7.33.54 PM.png)
+![Alt Text]('Screenshot 2023-06-22 at 7.33.54 PM.png')
