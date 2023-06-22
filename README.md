@@ -19,4 +19,4 @@ Data preprocessing and augmentation
 Model optimization and fine-tuning
 Evaluation metrics and performance analysis
 
-![Alt Text](https://example.com/path/to/your/image.png)
+![Alt Text]([https://example.com/path/to/your/image.png](https://github.com/ramonshri02/fakeImageDetection/blob/main/Screenshot%202023-06-22%20at%207.33.54%20PM.png)https://github.com/ramonshri02/fakeImageDetection/blob/main/Screenshot%202023-06-22%20at%207.33.54%20PM.png)
